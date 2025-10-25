@@ -1,4 +1,4 @@
-Happiness-Labelled-Dataset---K-Means
+K-Means Python Exercise
 
 🌍 GDP vs Average Income – Clustering and Correlation Analysis
 📘 Project Overview
